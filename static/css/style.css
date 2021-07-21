@@ -55,6 +55,7 @@ h1{
 .col-10{
     font-family: 'Luckiest Guy', cursive;
     font-size: 19px;
+    overflow: auto;
 }
 
 [type=checkbox]{
