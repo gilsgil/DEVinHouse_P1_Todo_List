@@ -3,7 +3,7 @@
 1 - Usuário digita uma tarefa no input (este input tem um maxlength de 30 caracteres sem rejeições)
 2 - O usuário pode clicar no botão adicionar ou pressionar a tecla 'Enter' para adicionar tarefas (Listeners fazem o tratamentos destes eventos)
 3 - A função 'addTask()' cria todos elementos e atributos que populam a Div 'todo-div'
-4 - Existe um contador que adicionar um ID e um NAME para os elementos, afim de fazer uma validação ao clicar no botão "X", através da função 'removeTask()'
+4 - Existe um contador que adiciona um ID e um NAME para os elementos, afim de fazer uma validação ao clicar no botão "X", através da função 'removeTask()'
 5 - Ao clicar no botão "X" uma mensagem de confirmação é apresentada
 6 - Para salvar as alterações no localStorage, realizo o salvamento do "innerHTML" da Div 'todo-div' a cada interação com os elementos
 
